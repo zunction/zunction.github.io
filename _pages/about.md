@@ -2,11 +2,11 @@
 layout: about
 title: about me
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="https://www.sutd.edu.sg/">SUTD</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: me.jpg
+  image: me.jpeg
   address: >
     <p> Some desk </p>
     <p>8 Somapah Road</p>
