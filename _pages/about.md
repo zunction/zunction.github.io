@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: about
 permalink: /
 description: <a href="https://www.sutd.edu.sg/">SUTD</a>. Address. Contacts. Moto. Etc.
 
