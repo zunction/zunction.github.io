@@ -8,7 +8,6 @@ profile:
   align: right
   image: me.jpeg
   address: >
-    <p> Some desk </p>
     <p>8 Somapah Road</p>
     <p>Singapore, 487372</p>
 
@@ -16,6 +15,15 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+Hi I'm Zhangsheng (pronounced "zunction" hence my GitHub account handle) and 长盛 in Chinese. I am a postdoctoral researcher at the Singapore University of Technology and Design in [Prof. Dr. Ernest Chong's](https://people.sutd.edu.sg/~ernest_chong/index.html) team. My undergraduate training is in mathematics at the National University of Singapore (NUS). 
+
+After which I worked for 
+
+
+
+
+
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
