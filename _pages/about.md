@@ -8,6 +8,7 @@ profile:
   align: right
   image: me.jpeg
   address: >
+    <p> DARES lab 3.311</p>
     <p>8 Somapah Road</p>
     <p>Singapore, 487372</p>
 
