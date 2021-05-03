@@ -1,31 +1,18 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: My advisor's talk at the topos institute colloquium!
+date: 2021-04-22 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+My advisor, Dr Shaowei Lin is giving a talk at the [topos institute colloquium](https://topos.site/topos-colloquium/) with the abstract of his talk below:
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com" target="blank">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice" target="blank">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Abstract
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+The Curry-Howard correspondence between proofs and programs suggests that we can exploit proof assistants for writing software. I will discuss the challenges behind a naïve execution of this idea, and some preliminary strategies for overcoming them. As an example, we will organize higher-order information in knowledge graphs using dependent type theory, and automate the answering of queries using a proof assistant. In another example, we will explore how decentralized proof assistants can enable mathematicians or programmers to work collaboratively on a theorem or application. If time permits, I will outline connections to canonical structures, reflection (ssreflect), transport, unification and universe management.
 
 ***
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+In his talk, he briefly mentions our work, so if you are interested in hearing more, you can access his talk recording on [Youtube](https://www.youtube.com/watch?v=cEdoG9h-pYg). His slides can be found [here](https://zunction.github.io/assets/pdf/slides-2021-04-22). 
