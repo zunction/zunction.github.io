@@ -63,7 +63,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: spikings and claps  # your blog must have a name for it to show up in the nav bar
+blog_name: spikes and claps  # your blog must have a name for it to show up in the nav bar
 blog_description: things that spikes my neurons or deserves a clap
 permalink: /blog/:year/:title/
 
