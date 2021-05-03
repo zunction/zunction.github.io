@@ -5,7 +5,7 @@ date: 2021-04-22 16:11:00-0400
 inline: false
 ---
 
-My advisor, Dr Shaowei Lin is giving a talk at the [topos institute colloquium](https://topos.site/topos-colloquium/) with the abstract of his talk below:
+My PhD advisor, Dr Shaowei Lin is giving a talk at the [topos institute colloquium](https://topos.site/topos-colloquium/) with the abstract of his talk below:
 
 ***
 
