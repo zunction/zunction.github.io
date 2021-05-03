@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My advisor's talk at the topos institute colloquium!
+title: My PhD advisor's talk at the topos institute colloquium!
 date: 2021-04-22 16:11:00-0400
 inline: false
 ---
