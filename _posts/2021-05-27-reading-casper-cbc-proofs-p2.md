@@ -2,7 +2,7 @@
 layout: post
 title: Reading Casper CBC proofs - Part 2
 date: 2021-05-27 11:59:00-0400
-description: learning how consensus protocols are formally verified
+description: messages and protocol states 
 comments: true
 ---
 

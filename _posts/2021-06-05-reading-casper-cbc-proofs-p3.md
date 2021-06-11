@@ -2,7 +2,7 @@
 layout: post
 title: Reading Casper CBC proofs - Part 3
 date: 2021-06-05 11:59:00-0400
-description: learning how consensus protocols are formally verified
+description: protocol state transitions, binary estimator, equivocating senders and verifying protocol states
 comments: true
 ---
 
