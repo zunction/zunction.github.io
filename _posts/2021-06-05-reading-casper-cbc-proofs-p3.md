@@ -240,7 +240,7 @@ Lemma fault_tolerance_condition_set_eq : forall sigma sigma', set_eq sigma sigma
   fault_tolerance_condition sigma -> fault_tolerance_condition sigma'.
  ```
  
- Unsurprisingly, the `protocol_state` property is also `transferrable' between two protocol states which are equal as sets, presented as `set_eq_protocol_state` below.
+ Unsurprisingly, the `protocol_state` property is also "transferrable" between two protocol states which are equal as sets, presented as `set_eq_protocol_state` below.
  
  ```coq
  Lemma set_eq_protocol_state : forall sigma,
