@@ -10,9 +10,7 @@ comments: true
 We continue from where we left off earlier in [Part 1](https://zunction.github.io/blog/2021/reading-casper-cbc-proofs/) and continue reading the [`Binary.v`](https://github.com/runtimeverification/casper-cbc-proofs/blob/master/CBC/Binary.v) code.
 The code which we are covering today starts working on $$\S 2.2$$ of the paper.
 
-#### Some paper definitions
-
-We start by going through what are protocol states and messages.
+**Some paper definitions.** We start by going through what are protocol states and messages.
 As protocol states and messages both change over time as new blocks are mined or validated, a time step $$n$$ is used to index the time. 
 For $$n = 0$$, the protocol states $$\Sigma$$ starts off empty:
 

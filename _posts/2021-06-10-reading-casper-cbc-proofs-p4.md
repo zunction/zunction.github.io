@@ -130,9 +130,7 @@ Lemma locked_on_off : forall s, locked_on one s -> locked_off zero s.
 ```
 As the definitions are build on other functions which we have not seen in `Binary.v`, we will defer their discussion for the time being, and return to update when those definitions make sense to me.
 
-#### Conclusions
-
-It has been a fun experience reading `Binary.v`, complemented with the material in [CBC Casper family of consensus protocol](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf).
+**Conclusions.** It has been a fun experience reading `Binary.v`, complemented with the material in [CBC Casper family of consensus protocol](https://github.com/cbc-casper/cbc-casper-paper/blob/master/cbc-casper-paper-draft.pdf).
 Reading their formalisation in Coq has also allowed me to better understand the content in the paper; the implementations in Coq has allowed me to identify the parts which I did not really understand and gain increased understanding of the definitions in finer detail which would not have been possible by simply just reading.
 Midway reading, I realised that the chronological order of the files mean that `Protocol.v` is the starting file, and thus has lead to some definitions which are not defined in `Binary.v`.
 
