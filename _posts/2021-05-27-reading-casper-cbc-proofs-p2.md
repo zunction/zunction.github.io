@@ -75,7 +75,17 @@ $$
 \{(0,v_1,\emptyset)\}, \{(1,v_2,\emptyset)\}, \{(0,v_1,\emptyset), (1,v_2,\emptyset)\} \in \Sigma^1
 $$
 
-since for each $$\sigma \in \Sigma_1$$ and $$m \in \sigma$$ above, $$Justification(m) = \emptyset \in \sigma$$ trivially.
+since for each $$\sigma \in \Sigma^1$$ and $$m \in \sigma$$ above, $$Justification(m) = \emptyset \in \sigma$$ trivially.
+An example of a nontrivial protocol state is:
+
+$$
+\sigma := \{(0,v_1,\{(1,v_2,\emptyset)\}), (1,v_2,\emptyset)\}
+$$
+
+the justification of the message $$(0,v_1,\{(1,v_2,\emptyset)\})$$ is $$\{(1,v_2,\emptyset)\} \subseteq \sigma$$ 
+
+**Upshot**: *an element $$\sigma$$ in $${P}_{finite}(M^{n-1})$$ (which is a subset $$M^{n-1}$$) is a protocol state if the protocol state of each message in $$\sigma$$ is a subset $$\sigma$$*
+
 
 **Upshot**: *a subset of messages in $${P}_{finite}(M^{n-1})$$ is a protocol state if the protocol state of each message is a subset of itself*
 
