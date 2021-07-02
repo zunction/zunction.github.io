@@ -15,4 +15,4 @@ The Curry-Howard correspondence between proofs and programs suggests that we can
 
 ***
 
-In his talk, he briefly mentions our work, so if you are interested in hearing more, you can access his talk recording on [Youtube](https://www.youtube.com/watch?v=cEdoG9h-pYg). His slides can be found [here](https://zunction.github.io/assets/pdf/slides-2021-04-22). 
+In his talk, he briefly mentions our work, so if you are interested in hearing more, you can access his talk recording on [Youtube](https://www.youtube.com/watch?v=cEdoG9h-pYg). His slides can be found [here](https://github.com/zunction/zunction.github.io/blob/source/assets/pdf/slides-2021-04-22.pdf). 
