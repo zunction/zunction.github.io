@@ -86,10 +86,6 @@ the justification of the message $$(0,v_1,\{(1,v_2,\emptyset)\})$$ is $$\{(1,v_2
 
 **Upshot**: *an element $$\sigma$$ in $${P}_{finite}(M^{n-1})$$ (which is a subset $$M^{n-1}$$) is a protocol state if the protocol state of each message in $$\sigma$$ is a subset $$\sigma$$*
 
-
-**Upshot**: *a subset of messages in $${P}_{finite}(M^{n-1})$$ is a protocol state if the protocol state of each message is a subset of itself*
-
-
 Lastly, the definition of protocol states and messages are completed by 
 
 $$
